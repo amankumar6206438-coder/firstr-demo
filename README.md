@@ -1,4 +1,4 @@
 # firstr-demo
 This is my first Git Repository
 <br>
-Author - Aman Rana
+Author - Aman kumar Rana
